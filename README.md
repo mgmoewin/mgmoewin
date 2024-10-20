@@ -18,19 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/moe win" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="moe win" height="30" width="40" /></a>
-  
-<a href="https://twitter.com/moe win" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moe win" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/moe win" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moe win" height="30" width="40" /></a>
-
-<a href="https://fb.com/moe win(mazhai)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moe win(mazhai)" height="30" width="40" /></a>
-
-<a href="https://dribbble.com/moe win" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="moe win" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/c/@moewin9619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@moewin9619" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/moewin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moewin" height="30" width="40" /></a>
+<a href="https://codepen.io/moe win" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="moe win" height="30" width="40" /></a>  <a href="https://twitter.com/moe win" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moe win" height="30" width="40" /></a>  <a href="https://linkedin.com/in/moe win" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moe win" height="30" width="40" /></a>  <a href="https://fb.com/moe win(mazhai)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moe win(mazhai)" height="30" width="40" /></a>  <a href="https://dribbble.com/moe win" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="moe win" height="30" width="40" /></a>  <a href="https://www.youtube.com/c/@moewin9619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@moewin9619" height="30" width="40" /></a>  <a href="https://www.leetcode.com/moewin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moewin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
