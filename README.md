@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Moe Win</h1>
-<h3 align="center">I’m Moe Win a 4th-year university student pursuing a degree in Computer Science. I have a strong interest in software development and I love working on projects that challenge me to grow and learn.Enjoy learning new technologies and building projects that help me apply my skills in real-world scenarios.</h3>
+<h3 align="center">I’m a 4th-year university student pursuing a degree in Computer Science. I have a strong interest in software development and I love working on projects that challenge me to grow and learn.Enjoy learning new technologies and building projects that help me apply my skills in real-world scenarios.</h3>
 
 <p align="left"> <a href="https://twitter.com/moe win" target="blank"><img src="https://img.shields.io/twitter/follow/moe win?logo=twitter&style=for-the-badge" alt="moe win" /></a> </p>
 
