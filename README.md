@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moe Win (mazhai)</h1>
 <h3 align="center">Currently a fourth-year Computer Science student, I'm diving deep into cross-platform application development with Flutter. I love taking on challenging projects that help me grow my skills and create something impactful.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mgmoewin&label=Profile%20views&color=0e75b6&style=flat" alt="mgmoewin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgmoewin" alt="mgmoewin" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
