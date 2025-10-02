@@ -1,7 +1,7 @@
 <br>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Mᴏᴇ Wɪɴ (ᴍᴀᴢʜᴀɪ)! 
-*Fourth-year Computer Science Student & Cross-Platform Developer*
+*Fourth-year Computer Science Student & Mobile App Developer*
 <br />
 
 <p align="left">Currently a fourth-year Computer Science student, I'm diving deep into **cross-platform application development with Flutter**. I love taking on challenging projects that help me grow my skills and create something impactful.</p>
