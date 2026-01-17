@@ -4,7 +4,7 @@
 *Fourth-year Computer Science Student & Mobile App Developer*
 <br />
 
-<p align="left">Currently a fourth-year Computer Science student, I'm diving deep into **cross-platform application development with Flutter**. I love taking on challenging projects that help me grow my skills and create something impactful.</p>
+<p align="left">Currently a final-year Computer Science student, I'm diving deep into **cross-platform application development with Flutter**. I love taking on challenging projects that help me grow my skills and create something impactful.</p>
 
 - 🌱 I’m currently learning **Flutter** and **Dart** in depth.
 - 👯 I was collaborated on **code2carrer Hackathon** community support projects.
