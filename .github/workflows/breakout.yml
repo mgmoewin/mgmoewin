@@ -1,0 +1,27 @@
+name: Generate contribution breakout
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 0 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  breakout:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate light and dark Breakout SVGs
+        uses: cyprieng/github-breakout@v1
+        with:
+          github_username: ${{ github.repository_owner }}
+
+      - name: Publish SVGs to github-breakout branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: github-breakout
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
