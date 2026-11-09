@@ -1,6 +1,9 @@
 name: Generate contribution breakout
 
 on:
+  push:
+    paths:
+      - .github/workflows/breakout.yml
   workflow_dispatch:
   schedule:
     - cron: '15 0 * * *'
