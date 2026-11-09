@@ -60,6 +60,16 @@
   </tr>
 </table>
 
+<h3 align="center">🧱 Contribution Breakout</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mgmoewin/mgmoewin/github-breakout/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mgmoewin/mgmoewin/github-breakout/light.svg" />
+  <img alt="Breakout game made from mgmoewin's GitHub contributions" src="https://raw.githubusercontent.com/mgmoewin/mgmoewin/github-breakout/light.svg" />
+</picture>
+
+<br />
+
 <br />
 
 <p align="center">
